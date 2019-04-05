@@ -4,7 +4,7 @@ A sample repository for the MolSSI workshop at UF.
 """
 
 # Add imports here
-from .molssi_math import *
+from .molssi_math import canvas, mean
 
 # Handle versioneer
 from ._version import get_versions
