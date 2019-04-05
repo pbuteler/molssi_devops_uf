@@ -1,2 +1,5 @@
+this is the start of testing.txt
+*******************************
  added this file from a new clone!
-new changes old version
+**********************************
+lalala
