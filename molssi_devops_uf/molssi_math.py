@@ -25,6 +25,7 @@ def mean(num_list):
     if not isinstance(num_list, list):
         raise TypeError('Invalid input %s - Input must be type list' %(num_list))
 
+
     # check that list is not empty
     if len(num_list) == []:
         raise ValueError('cannot calculate mean of empty list.')
